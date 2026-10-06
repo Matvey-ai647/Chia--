@@ -1,0 +1,13 @@
+*.obj
+*.class
+*.exe
+*.pdb
+*.ilk
+*.idb
+dist/
+build/
+.vs/
+.idea/
+.vscode/
+.chia_database
+.chia_users
